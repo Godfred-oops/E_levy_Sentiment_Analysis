@@ -1,2 +1,2 @@
 # E_levy_Sentiment_Analysis
-This is a E-levy Sentiment Analysis with data being scrapped from twitter. The notebook contains tweet visualisations, polarity analysis etc. 
+This is a E-levy (A tax levy yet to be introduced in Ghana, mostly on Mobile Money transactions) Sentiment Analysis with data being scrapped from twitter. The scrapped data contained full tweet from tweeps on the topic of E-levy, number of followers of the tweep,  number of retweets and likes of the tweet on the topic of E-levy. Several visualisations were done based on the analysis (polarity and subjectivity), tweet analysis and wordcloud 
